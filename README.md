@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with tekvortex as software developer <br>👯 I’m looking to work with the best minds in the world<br>🤝 I’m a computer engineer<br>🌱 I’m looking to collaborate in an opensource community<br>💬 I'm president of y_group of companies<br>💬 connect me: https://bio.link/basant_babu_bhandari<br>
+🔭 I’m currently working with verisk as software developer <br>👯 I’m looking to work with the best minds in the world<br>🤝 I’m a computer engineer<br>🌱 I’m looking to collaborate in an opensource community<br>💬 I'm president of y_group of companies<br>💬 connect me: https://bio.link/basant_babu_bhandari<br>
 
 
 ## 🌐 Socials:
