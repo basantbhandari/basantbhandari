@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’ve worked with many multinational corporations as a senior software engineer <br>👯 I’m looking to work with the best minds in the world<br>🤝 I’m a computer engineer<br>🌱 I’m looking to collaborate in an open-source community<br>💬 I'm president of y-group of companies<br>💬 connect me: https://bio.link/basant_babu_bhandari<br>
 
 
