@@ -80,14 +80,6 @@ I architect and ship production-grade data platforms and agentic AI/LLM systems 
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=basantbhandari&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=basantbhandari&theme=yeblu&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=basantbhandari&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: basantbhandari2074@gmail.com
